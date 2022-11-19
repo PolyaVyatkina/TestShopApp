@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/orange" />
+        </shape>
+    </item>
+    <item
+        android:bottom="20dp"
+        android:left="26dp"
+        android:right="26dp"
+        android:top="20dp"
+        android:drawable="@drawable/ic_phone_white" />
+</layer-list>
